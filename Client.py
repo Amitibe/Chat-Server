@@ -2,9 +2,6 @@ import socket
 import threading
 import tkinter
 import tkinter.scrolledtext
-#import os
-#os.system("pip install keyboard")
-import keyboard
 from tkinter import simpledialog
 import sys
 
